@@ -48,5 +48,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/taskflow-mern.git
-   cd taskflow-mern
+   git clone git@github.com:vigneshjraju/TaskFlow.git
+   cd TaskFlow
